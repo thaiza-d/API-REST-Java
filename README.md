@@ -1,12 +1,12 @@
-# Baozi Doces e Biscoitos — API REST
+# Baozi Store — API REST
 
-API REST desenvolvida em Java com Spring Boot para o gerenciamento de clientes, produtos e pedidos de uma pequena loja fictícia de doces e biscoitos.
+API REST desenvolvida em Java com Spring Boot para o gerenciamento de clientes, produtos e pedidos de uma pequena panificadora fictícia.
 
 ---
 
 ## 📌 Sobre o projeto
 
-A Baozi Doces e Biscoitos é uma pequena loja especializada na venda de doces e biscoitos, especialmente chocolates. Para melhorar a organização do negócio, foi desenvolvido um sistema simples para controlar clientes, produtos e pedidos por meio de uma API REST.
+A Baozi Store é uma pequena panificadora e a sua especialidade é o pão chinês. Para melhorar a organização do negócio, foi desenvolvido um sistema simples para controlar clientes, produtos e pedidos por meio de uma API REST.
 
 A aplicação foi desenvolvida como atividade acadêmica de Desenvolvimento Web Back-End, com o objetivo de aplicar conceitos de desenvolvimento de APIs REST, persistência de dados, integração com banco de dados e operações CRUD.
 
